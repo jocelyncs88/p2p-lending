@@ -1,4 +1,4 @@
-# Created at 2026-04-22T15:52:21.906
+# Created at 2026-04-27T20:56:52.866
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Jocelyn\TEKPRO\Praktek\p2p-lending\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
